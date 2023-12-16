@@ -1,7 +1,7 @@
 
 /*Kyaw Win
 Csci 135
-Project 1 task C
+Project task D
 Dictionary Admin Operations
 */
 
