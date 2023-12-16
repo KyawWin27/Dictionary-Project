@@ -1,7 +1,5 @@
 /*Kyaw Win
-Csci 135
-
-Project 1 task B
+Project task B
 Dictionary Using Arrays
 */
 
